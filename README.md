@@ -19,4 +19,4 @@ $ cd DockerNodeProject
 Open the terminal and run:
 ```
 $ docker build -t my-node-app .
-$ docker run -it -p 1234:3000 my-node-app
+$ docker run -it -p 1234:8000 my-node-app
