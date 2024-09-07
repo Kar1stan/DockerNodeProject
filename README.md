@@ -18,5 +18,5 @@ $ cd DockerNodeProject
 ## 🚀 Run the Dockerfile: 
 Open the terminal and run:
 ```
-$ docker build -t my-node-server .
-$ docker run -it -p 1234:3000 my-node-server
+$ docker build -t my-node-app .
+$ docker run -it -p 1234:3000 my-node-app
